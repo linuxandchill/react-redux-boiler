@@ -33,7 +33,7 @@ class Header extends Component{
                 </li>
               </ul>
               <ul className="nav navbar-nav navbar-right">
-                <li><a href="../navbar-fixed-top/">Sign in</a></li>
+                <li><a href="">Sign in</a></li>
               </ul>
             </div>
           </div>
